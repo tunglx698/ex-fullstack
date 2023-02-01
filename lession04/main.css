@@ -1,0 +1,54 @@
+.kenh14 {
+    width: 800px;
+    margin: auto;
+}
+
+.kenh14 .content .left {
+    width: 400px;
+    height: 355px;
+    float: left;
+    padding-right: 25px;
+}
+
+.kenh14 .content .left h2 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.kenh14 .content .left a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+}
+
+.kenh14 .content .left .cate {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.kenh14 .content .left p {
+    color: #686868;
+    font-size: 15px;
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+
+.kenh14 .content .right {
+    width: 272px;
+    height: 432px;
+    padding-left: 25px;
+    float: left;
+    border-left: 1px solid #F2F2F2;
+}
+
+.kenh14 .content .right-1 a {
+    text-decoration: none;
+    display: block;
+}
+
+.kenh14 .content .right-1 {
+    margin-bottom: 15px;
+}
+
+}
